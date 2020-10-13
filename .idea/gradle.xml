@@ -5,6 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -13,8 +14,12 @@
             <option value="$PROJECT_DIR$/Problems/Check if an array contains two numbers" />
             <option value="$PROJECT_DIR$/Problems/Check if an array is sorted ascending" />
             <option value="$PROJECT_DIR$/Problems/Cinema" />
+            <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Find the seed" />
             <option value="$PROJECT_DIR$/Problems/Sum of neighbors" />
             <option value="$PROJECT_DIR$/Problems/The sum of array elements" />
+            <option value="$PROJECT_DIR$/Tic-Tac-Toe with AI/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
